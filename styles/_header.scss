@@ -1,0 +1,14 @@
+header {
+  background: yellow;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  butten {
+    background-color: $primaryBtn;
+
+    &:hover {
+      background-color: red;
+    }
+  }
+}

@@ -1,0 +1,22 @@
+header {
+  background: yellowgreen;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+header butten {
+  background-color: red;
+}
+
+header butten:hover {
+  background-color: red;
+}
+
+.contact button {
+  background-color: red;
+}
+/*# sourceMappingURL=styles.css.map */
